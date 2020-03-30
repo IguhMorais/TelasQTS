@@ -42,5 +42,5 @@
 </body>
 
 <script src="js/jotaquery.js"></script>
-<script src="js/scripts.js"></script>
+<script src="js/scripts.jsgit"></script>
 </html>
