@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tela 3</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
@@ -38,4 +40,7 @@
         </div>
     </div>
 </body>
+
+<script src="js/jotaquery.js"></script>
+<script src="js/scripts.js"></script>
 </html>
