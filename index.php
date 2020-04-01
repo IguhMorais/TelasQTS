@@ -20,10 +20,14 @@
             aqui vai informaçoes sobre o produto
         </div>
         <div class="container-foot">
-            <div class="itens-registro"> aqui vai registro dos itens</div>
+            <div class="itens-registro"> 
+                aqui vai registro dos itens
+
+            </div>
             
             <div class="sem-criatividade">
                 <div class="total">
+                    aqui vai o total
                 </div>
                 <div class="paradas-chatas">
                     <div class="codigo">
