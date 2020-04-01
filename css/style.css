@@ -3,18 +3,24 @@ body{
     text-align: center;
 }
 .container{
-    display: flexbox;
+    display: inline-block;
+    width: 100%;
 
 }
 
 .container-head{
     background-color: aqua;
     display: inline-block;
+    
 }
 
 .img-produto{
+    display: inline-block;
     background-color: blue;
-    display: block;
+    text-align: right;
+    background-image: url(../img/produto1.jpg);
+    width: 20%;
+    height:100% ;
 }
 
 .container-view{
@@ -31,7 +37,7 @@ body{
 
 .sem-criatividade{
 
-    
+
 }
 
 .total{
