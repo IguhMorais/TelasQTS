@@ -1,0 +1,54 @@
+body{
+    text-decoration: black;
+    text-align: center;
+}
+.container{
+    display: flexbox;
+
+}
+
+.container-head{
+    background-color: aqua;
+    display: inline-block;
+}
+
+.img-produto{
+    background-color: blue;
+    display: block;
+}
+
+.container-view{
+    background-color: blueviolet;
+}
+
+.container-foot{
+    display: flexbox;
+}
+
+.itens-registro{
+
+}
+
+.sem-criatividade{
+
+}
+
+.total{
+
+}
+
+.paradas-chatas{
+
+}
+
+.codigo{
+
+}
+
+.quantidade{
+    
+}
+
+.time{
+
+}
