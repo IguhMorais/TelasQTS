@@ -5,15 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tela 3</title>
     <link rel="stylesheet" href="css/reset.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <div class="container">
     
         <div class="container-head">
-            cabeça da aplicacao
-            <div class="img-produto">
-                aqui vai uma imagen do produto
+            <div class= conteudo-head>
+                <span><h1>Supermercado</h1></span>
+                <span><h1>Preço Bom e Cia.</h1></span>
+                
+                <div class="img-produto">
+                
+                </div>
             </div>
         </div>
         <div class="container-view">
