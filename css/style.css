@@ -1,26 +1,28 @@
 body{
     text-decoration: black;
-    text-align: center;
+    display: list-item;
 }
 .container{
     display: inline-block;
     width: 100%;
-
-}
-
-.container-head{
-    background-color: aqua;
-    display: inline-block;
     
 }
 
-.img-produto{
+.container-head{
+    text-align: left;
+    background-color: aqua;
     display: inline-block;
+    padding-right: auto;
+}
+
+.img-produto{
+    content: icon;
+    display:block;
     background-color: blue;
-    text-align: right;
     background-image: url(../img/produto1.jpg);
-    width: 20%;
+    width: auto;
     height:100% ;
+    padding-left: auto;
 }
 
 .container-view{
